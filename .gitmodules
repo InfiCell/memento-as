@@ -1,9 +1,9 @@
 [submodule "modules/memento-common"]
 	path = modules/memento-common
-	url = git@github.com:Metaswitch/memento-common.git
+	url = git@github.com:InfiCell/memento-common.git
 [submodule "modules/thrift"]
 	path = modules/thrift
-	url = git@github.com:Metaswitch/thrift.git
+	url = git@github.com:InfiCell/thrift.git
 [submodule "modules/cassandra"]
 	path = modules/cassandra
 	url = https://github.com/apache/cassandra.git
